@@ -38,6 +38,7 @@ As you can see here its local IP address is `192.168.0.19`.
 The `nmap` command ([Network Mapper](https://nmap.org)) is a free and open-source tool for network discovery, available for Linux, macOS, and Windows.
 
 ### Installation
+Note: If this is your first time using the CLI on macOS you need to install brew, a package management system for the CLI
 
 - Linux: in your terminal, run `sudo apt-get install nmap`
 - macOS: in your terminal, run `brew install nmap`
